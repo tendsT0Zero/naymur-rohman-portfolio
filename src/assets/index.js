@@ -221,6 +221,13 @@ export const projectsData = [
     repo: "https://github.com/yourusername/shopsphere",
   },
   {
+    name: "Travel.ai",
+    desc: "A full-stack AI-powered travel assistant featuring travel spot recommendations, image generation, and interactive chat using Spring Boot, React, and OpenAI API.",
+    url: "/projects/travel-ai.png",
+    tech: ["Spring Boot", "React", "OpenAI API", "JavaScript", "CSS"],
+    repo: "https://github.com/tendsT0Zero/Travel.ai",
+  },
+  {
     name: "PharmaTrack.NET",
     desc: "A complete pharmacy inventory and employee management system with real-time stock tracking, cost analysis, and admin dashboard using .NET 8.",
     url: "/projects/pharma.png",
