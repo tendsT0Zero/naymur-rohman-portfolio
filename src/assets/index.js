@@ -223,7 +223,7 @@ export const projectsData = [
   {
     name: "Travel.ai",
     desc: "A full-stack AI-powered travel assistant featuring travel spot recommendations, image generation, and interactive chat using Spring Boot, React, and OpenAI API.",
-    url: "/projects/travel-ai.png",
+    url: "/projects/travelai.png",
     tech: ["Spring Boot", "React", "OpenAI API", "JavaScript", "CSS"],
     repo: "https://github.com/tendsT0Zero/Travel.ai",
   },
