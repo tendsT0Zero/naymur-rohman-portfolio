@@ -243,7 +243,7 @@ export const projectsData = [
     repo: "https://github.com/yourusername/shopsphere",
   },
   {
-    name: "ShopSphere",
+    name: "EZSHOP.COM [under construction]",
     desc: "A full-featured eCommerce application developed using Spring Boot, featuring secure authentication, product catalog, shopping cart, order management, and admin dashboard.",
     url: "/projects/shopsphare.png",
     tech: [
@@ -255,14 +255,14 @@ export const projectsData = [
       "HTML",
       "Tailwind",
     ],
-    repo: "https://github.com/yourusername/shopsphere",
+    repo: "https://github.com/tendsT0Zero/ezbuy.com",
   },
   {
     name: "Health App",
     desc: "A medical research project applying hybrid feature selection and ensemble ML models to predict PCOS and Obesity Level with 96+ % accuracy using patient data.Along side Brain tumor detection via uploading MRI image on our HealthApp site",
     url: "/projects/pcos.png",
     tech: ["Python", "SVM", "DecisionTree", "KNN", "SHAP", "HTML", "CSS"],
-    repo: "https://github.com/yourusername/shopsphere",
+    repo: "https://github.com/tendsT0Zero/health-app",
   },
 ];
 
